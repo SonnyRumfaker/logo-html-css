@@ -11,7 +11,7 @@
     align-items: center;
     justify-content: center;
 }
-
+/* Start Layer */
 .insta{
     width: 270px;
     height: 270px;
@@ -34,12 +34,12 @@
     position: relative;
 }
 
-/* Inner Circle Layer*/
+/* Inner Circle Layer */
 .insta-inner2{
     width: 100px;
     height: 100px;
     border: 10px solid #fff;
-    border-radius: 50%px;
+    border-radius: 50%;
 }
 
 /* Top Dot */
